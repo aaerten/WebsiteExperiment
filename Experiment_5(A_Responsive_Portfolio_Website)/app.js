@@ -9,7 +9,7 @@ toggleMenu.addEventListener('click',()=>{
 })
 
 /*====== HIDDEN ======*/
-toggleMenu.addEventListener('click', () => {
+closeMenu.addEventListener('click', () => {
 	navMenu.classList.remove('show');
 });
 
